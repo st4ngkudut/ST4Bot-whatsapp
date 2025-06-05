@@ -1,4 +1,4 @@
-# WhatsApp Bot dengan Gemini AI dan Jadwal Sholat
+# ST4Bot-Whatsapp | WhatsApp Bot dengan Gemini AI dan Jadwal Sholat
 
 Bot WhatsApp ini memiliki fitur untuk berinteraksi dengan Google Gemini AI, menampilkan jadwal sholat, fitur AFK, pesan terjadwal, dan lainnya.
 
